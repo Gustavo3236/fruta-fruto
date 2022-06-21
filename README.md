@@ -1,2 +1,2 @@
-# fruta-fruto
-Página web de projeto iniciante feito com base no figma. 
+# arquitetura-css
+curso de arquitetura da Alura. 
